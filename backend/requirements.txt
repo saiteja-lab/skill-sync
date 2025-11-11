@@ -1,0 +1,10 @@
+flask
+flask-cors
+pymongo
+python-docx
+pdfplumber
+requests
+docx2txt
+thefuzz
+python-dotenv
+google-generativeai
